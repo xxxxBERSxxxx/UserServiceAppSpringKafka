@@ -1,0 +1,10 @@
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\config\KafkaProducerConfig.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\controller\UserController.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\event\UserEvent.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\event\UserEventType.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\exception\GlobalExceptionHandler.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\exception\ResourceNotFoundException.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\model\User.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\repository\UserRepository.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\service\UserService.java
+C:\Users\Bers\IdeaProjects\UserServiceAppSpring\src\main\java\com\example\userserviceappspring\UserServiceAppSpringApplication.java
